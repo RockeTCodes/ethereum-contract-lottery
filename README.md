@@ -11,4 +11,4 @@ Use with caution while deploying to main ethereum network as it can cause loss o
 
 currently this is deployed at Goerli Test Network at address : 0xc62e4AA28E061437a57127ceDe162c6F3006A5B0 
 
-You can intract with the contract here at the given address . 
+You can interact with the contract here at the given address . 
