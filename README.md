@@ -9,6 +9,12 @@ The players will need to send some eth to enter the contest . {any value greater
 
 Use with caution while deploying to main ethereum network as it can cause loss of money . 
 
-currently this is deployed at Goerli Test Network at address : 0xc62e4AA28E061437a57127ceDe162c6F3006A5B0 
+The newer version is deployed at Goerli Test Network at address : 0x54E707d104Db5F95a2668f678899A9ec3587310E
+
+The new version is made using Solidity ^0.8.17 . (Latest as of December 2022).
+
+
+
+currently the older version is deployed at Goerli Test Network at address : 0xc62e4AA28E061437a57127ceDe162c6F3006A5B0 
 
 You can interact with the contract here at the given address . 
