@@ -18,3 +18,5 @@ The new version is made using Solidity ^0.8.17 . (Latest as of December 2022).
 currently the older version is deployed at Goerli Test Network at address : 0xc62e4AA28E061437a57127ceDe162c6F3006A5B0 
 
 You can interact with the contract here at the given address . 
+
+The frontend interactable version of this contract is available here :- https://lottery-react-omega.vercel.app/
