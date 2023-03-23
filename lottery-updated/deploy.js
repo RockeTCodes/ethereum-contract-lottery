@@ -1,7 +1,7 @@
 const HDWalletProvider = require("@truffle/hdwallet-provider");
 const Web3 = require("web3");
 const {abi,evm} = require("./compile");
-const provider = new HDWalletProvider("YOUR_PNEUMOIC","https://goerli.infura.io/v3/65e209fc3ac3488fa1b2daf90798a0be");
+const provider = new HDWalletProvider("YOUR_PNEUMONIC","https://goerli.infura.io/v3/65e209fc3ac3488fa1b2daf90798a0be");
 const web3 = new Web3(provider);
 
 
